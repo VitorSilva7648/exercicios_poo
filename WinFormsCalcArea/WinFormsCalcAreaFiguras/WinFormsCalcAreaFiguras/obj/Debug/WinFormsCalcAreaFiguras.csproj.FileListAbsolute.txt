@@ -1,0 +1,11 @@
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\bin\Debug\WinFormsCalcAreaFiguras.exe.config
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\bin\Debug\WinFormsCalcAreaFiguras.exe
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\bin\Debug\WinFormsCalcAreaFiguras.pdb
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.Form1.resources
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.Properties.Resources.resources
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.csproj.GenerateResource.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.exe
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinFormsCalcArea\WinFormsCalcAreaFiguras\WinFormsCalcAreaFiguras\obj\Debug\WinFormsCalcAreaFiguras.pdb

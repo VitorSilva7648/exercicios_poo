@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsBanco", "WinFormsBanco\WinFormsBanco.csproj", "{96B57219-AABD-4E2E-8DB1-A81D63A7E34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B57219-AABD-4E2E-8DB1-A81D63A7E34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B57219-AABD-4E2E-8DB1-A81D63A7E34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B57219-AABD-4E2E-8DB1-A81D63A7E34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B57219-AABD-4E2E-8DB1-A81D63A7E34D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3402DB43-A96D-4C7F-90DF-50B6FA0EFBE8}
+	EndGlobalSection
+EndGlobal

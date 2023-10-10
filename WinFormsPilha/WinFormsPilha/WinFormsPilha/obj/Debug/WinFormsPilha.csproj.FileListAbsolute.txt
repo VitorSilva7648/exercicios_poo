@@ -1,0 +1,11 @@
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\bin\Debug\WinFormsPilha.exe.config
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\bin\Debug\WinFormsPilha.exe
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\bin\Debug\WinFormsPilha.pdb
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.csproj.AssemblyReference.cache
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.csproj.SuggestedBindingRedirects.cache
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.Palindromo.resources
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.Properties.Resources.resources
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.csproj.GenerateResource.cache
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.csproj.CoreCompileInputs.cache
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.exe
+D:\Pastas\UFU\POO\prog_orient_objet\WinFormsPilha\WinFormsPilha\WinFormsPilha\obj\Debug\WinFormsPilha.pdb

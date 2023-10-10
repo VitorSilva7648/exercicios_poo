@@ -1,0 +1,15 @@
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\bin\Debug\net6.0\pilha_palindromo.exe
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\bin\Debug\net6.0\pilha_palindromo.deps.json
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\bin\Debug\net6.0\pilha_palindromo.runtimeconfig.json
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\bin\Debug\net6.0\pilha_palindromo.dll
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\bin\Debug\net6.0\pilha_palindromo.pdb
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.csproj.AssemblyReference.cache
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.AssemblyInfoInputs.cache
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.AssemblyInfo.cs
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.csproj.CoreCompileInputs.cache
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.dll
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\refint\pilha_palindromo.dll
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.pdb
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\pilha_palindromo.genruntimeconfig.cache
+D:\Pastas\UFU\POO\prog_orient_objet\Palindromo_pilha\pilha_palindromo\pilha_palindromo\obj\Debug\net6.0\ref\pilha_palindromo.dll

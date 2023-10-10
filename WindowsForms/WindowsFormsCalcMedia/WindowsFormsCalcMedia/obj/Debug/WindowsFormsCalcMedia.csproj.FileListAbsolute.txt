@@ -1,0 +1,11 @@
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\bin\Debug\WindowsFormsCalcMedia.exe.config
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\bin\Debug\WindowsFormsCalcMedia.exe
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\bin\Debug\WindowsFormsCalcMedia.pdb
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.Form1.resources
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.Properties.Resources.resources
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.csproj.GenerateResource.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.exe
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WindowsFormsCalcMedia\WindowsFormsCalcMedia\obj\Debug\WindowsFormsCalcMedia.pdb

@@ -1,0 +1,11 @@
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\bin\Debug\WinFormsCalcCredito.exe.config
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\bin\Debug\WinFormsCalcCredito.exe
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\bin\Debug\WinFormsCalcCredito.pdb
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.Form1.resources
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.Properties.Resources.resources
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.csproj.GenerateResource.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.exe
+C:\Users\Vitor\Desktop\Pastas\UFU\POO\prog_orient_objet\WinForms\WinFormsCalcCredito\obj\Debug\WinFormsCalcCredito.pdb
